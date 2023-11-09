@@ -1,0 +1,27 @@
+#number{
+    background-color: turquoise;
+    border-width: 2px;
+}
+#btn{
+    margin-top: 30px;
+    height: 50px;
+    width: 25%;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+.random{
+    background-color: antiquewhite;
+    margin:auto;
+    padding:20px;
+    text-align:center;
+    margin-top: 100px;
+    height: 100px;
+    width: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image: url("https://cdn.gamedevmarket.net/wp-content/uploads/20191203152955/77f8f945d6791e26447b40fd36260908.jpg");
+    background-size: auto;
+}
